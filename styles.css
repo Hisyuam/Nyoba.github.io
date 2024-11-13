@@ -1,0 +1,45 @@
+.jumbotron {
+  padding-top: 7rem;
+  background-color: #346273;
+}
+
+body {
+  min-height: 3000px;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+.navbar {
+  margin: 10px;
+  border-radius: 10px;
+}
+
+.navbar a:hover {
+  background-color: #346273;
+  border-radius: 8px;
+  transition: 0.3s ease-in-out;
+  transition-delay: 0.1s;
+  padding: 6px;
+  margin-left: 5px;
+}
+
+.container h2 {
+  font-family: 'Oswald', sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 1000;
+  font-style: normal;
+}
+
+.jumbotron h1,
+p {
+  font-family: 'Oswald', sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+button.btn-primary:hover {
+  background-color: #507d94;
+  border-color: #507d94;
+}
